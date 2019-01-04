@@ -1,0 +1,10 @@
+baseURL = "https://ckret.io/"
+languageCode = "en-us"
+title = "ckret.io"
+theme = "ckret"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/ckret-io"

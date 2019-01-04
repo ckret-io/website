@@ -1,0 +1,3 @@
+[submodule "themes/ckret"]
+	path = themes/ckret
+	url = https://github.com/ckret-io/website-theme.git
